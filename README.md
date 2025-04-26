@@ -84,3 +84,14 @@ The API returns a JSON array of quiz questions:
 - gunicorn (21.2.0)
 - google-cloud-aiplatform (1.47.0)
 
+
+
+## Output
+![image](https://github.com/user-attachments/assets/173eb47a-c152-49cc-803e-b07098643a88)
+
+![image](https://github.com/user-attachments/assets/9e181539-0470-43ef-9b96-1c3bd1a06397)
+
+
+
+
+
