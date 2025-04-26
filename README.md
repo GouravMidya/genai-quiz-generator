@@ -17,8 +17,8 @@ This project provides a RESTful API that generates customized quizzes on various
 
 1. Clone the repository:
 ```bash
-git clone 
-cd ai-quiz-generator
+git clone https://github.com/GouravMidya/genai-quiz-generator.git
+cd genai-quiz-generator
 ```
 
 2. Install dependencies:
